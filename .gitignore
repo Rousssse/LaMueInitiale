@@ -7,6 +7,10 @@
 *.o
 *.obj
 
+#videos
+*.mp4
+Content/FilesVideos
+
 # Precompiled Headers
 *.gch
 *.pch
